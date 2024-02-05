@@ -1,4 +1,3 @@
-let mediaRecorder;
 let recordedBlobs;
  
 const errorMsgElement = document.querySelector('span#errorMsg');
