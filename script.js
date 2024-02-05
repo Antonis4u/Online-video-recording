@@ -1,4 +1,5 @@
-let recordedBlobs;
+ let mediaReorder;
+ let recordedBlobs;
  
 const errorMsgElement = document.querySelector('span#errorMsg');
 const recordedVideo = document.querySelector('video#recorded');
